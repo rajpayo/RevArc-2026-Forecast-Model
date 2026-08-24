@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/Cohort_2026_Revenue_Forecast.html"
+    }
+  ]
+}
